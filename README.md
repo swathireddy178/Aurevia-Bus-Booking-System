@@ -61,6 +61,11 @@ node server.js
 5️⃣ Open `index.html` in browser.
 
 
+## 📸 Project Preview
+
+![Aurevia Screenshot](Aurevia Bus.jpeg)
+![Aurevia Screenshot](Aurveia bus 2.jpeg)
+
 ## 🔒 Security Features
 
 - Password hashing using bcrypt
