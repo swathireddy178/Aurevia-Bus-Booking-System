@@ -63,8 +63,8 @@ node server.js
 
 ## 📸 Project Preview
 
-![Aurevia Screenshot](Aurevia Bus.jpeg)
-![Aurevia Screenshot](Aurveia bus 2.jpeg)
+(Aurevia Bus.jpeg)
+(Aurveia bus 2.jpeg)
 
 ## 🔒 Security Features
 
