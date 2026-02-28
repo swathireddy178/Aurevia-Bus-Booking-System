@@ -63,7 +63,7 @@ node server.js
 
 ## 📸 Project Preview
 
-(Aurevia Bus.jpeg)
+Aurevia Bus.jpeg
 (Aurveia bus 2.jpeg)
 
 ## 🔒 Security Features
