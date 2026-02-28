@@ -63,8 +63,11 @@ node server.js
 
 ## 📸 Project Preview
 
-Aurevia Bus.jpeg
-(Aurveia bus 2.jpeg)
+### Dashboard
+![Dashboard](aurevia-dashboard.jpeg)
+
+### Seat Selection
+![Seat Selection](aurevia-seats.jpeg)
 
 ## 🔒 Security Features
 
